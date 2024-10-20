@@ -8,3 +8,7 @@
     background-color: burlywood;
     color: black;
 }
+
+.flag-container img{
+    width: 100px;
+}
